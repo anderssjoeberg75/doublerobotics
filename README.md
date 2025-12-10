@@ -1,6 +1,6 @@
-# doublerobotics
+#doublerobotics
 
-# update
+#update
 sudo apt update && sudo apt upgrade -y
 
 # required packages
