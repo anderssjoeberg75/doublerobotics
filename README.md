@@ -7,7 +7,8 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install -y ffmpeg v4l-utils
 
 # if you want libcamera support (Pi Camera module)
-# on modern Raspberry Pi OS, libcamera-apps are usually installed; if not:
+
+on modern Raspberry Pi OS, libcamera-apps are usually installed; if not:
 sudo apt install -y libcamera-apps
 
 # Install node (example Node 20 LTS)
